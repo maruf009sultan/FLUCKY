@@ -2274,14 +2274,6 @@ Use LOLBAS  # Avoid external tool signatures
 
 ## 🌟 Community & Contribution
 
-### Why Open Source Matters
-
-Flucky is open source because:
-- **Transparency** - You know exactly what the tool does
-- **Community Improvement** - Collective knowledge makes it better
-- **Education** - Learn from real operational code
-- **Adaptation** - Customize for your specific needs
-
 ### How to Contribute
 
 **Feature Requests:**
