@@ -2,6 +2,62 @@
 ## This readme is written by AI so sorry for poor language.
 ## You may wanna skip part 0 {to Core Command System} it's ok but read ⚖️ STRICT ETHICAL USAGE POLICY
 
+
+
+## 📚 Table of Contents
+
+### 🧭 Getting Started
+- [The Creator's Manifesto & Ethical Foundation](#part-0-the-creators-manifesto--ethical-foundation)
+- [Why I Built Flucky – The Real Story](#-why-i-built-flucky---the-real-story)
+- [STRICT Ethical Usage Policy](#️-strict-ethical-usage-policy)
+- [Educational & Awareness Focus](#-educational--awareness-focus)
+- [Getting Started the Right Way](#-getting-started-the-right-way)
+
+### ⚙️ Core Platform Overview
+- [The Revolution in HID Attacks](#-the-revolution-in-hid-attacks)
+- [What Makes Flucky Different?](#-what-makes-flucky-different)
+- [Hardware Requirements](#-hardware-requirements)
+- [Quick Start Guide](#-quick-start-guide)
+
+### 🎮 Core Command System
+- [Command Structure](#command-structure)
+- [Basic Device Management](#basic-device-management-commands)
+- [Script Management System](#script-management-system)
+- [Bluetooth Management](#bluetooth-management)
+- [Basic Keystroke Injection](#️-basic-keystroke-injection)
+
+### 🕶️ Part 2: Stealth, Encryption & Advanced Operations
+- [Stealth Operations](#-stealth-operations)
+- [Encryption & Security](#-encryption--security)
+- [Obfuscation & Evasion](#-obfuscation--evasion)
+- [Timing & Scheduling](#-timing--scheduling)
+- [Advanced Payload Management](#-advanced-payload-management)
+- [Chaos Mode & Behavioral Randomization](#-chaos-mode--behavioral-randomization)
+- [Button Management](#-button-management)
+
+### 🧠 Part 3: LOLBAS, Psychological Warfare & Real-World Operations
+- [LOLBAS Integration](#️-lolbas-integration---living-off-the-land)
+- [Gaslighting – Psychological Operations](#-gaslighting---psychological-operations)
+- [Real-World Operational Scenarios](#-real-world-operational-scenarios)
+- [Advanced Operational Security](#-advanced-operational-security)
+- [Best Practices & Operational Guidelines](#-best-practices--operational-guidelines)
+- [The Future of HID Attacks](#-the-future-of-hid-attacks)
+
+### 📋 Part 4: Essential Reference, Troubleshooting & Community
+- [Complete Command Reference Table](#-complete-command-reference-table)
+- [Troubleshooting & Error Guide](#-troubleshooting--error-guide)
+- [Advanced Configuration Guide](#-advanced-configuration-guide)
+- [Advanced Usage Patterns](#-advanced-usage-patterns)
+- [Security Best Practices](#-security-best-practices)
+- [Community & Contribution](#-community--contribution)
+- [Learning Resources](#-learning-resources)
+- [Final Words](#-final-words)
+
+---
+
+> 💡 **Tip**: Use this index to jump directly to the section you need. All links are anchor-compatible with GitHub/GitLab markdown renderers.
+
+
 ## Part 0: The Creator's Manifesto & Ethical Foundation
 
 <div align="center">
