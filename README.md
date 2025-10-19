@@ -1,4 +1,7 @@
 # 🦆 Flucky - Advanced Bluetooth HID Attack Platform
+## This readme is written by AI so sorry for poor language.
+## You may wanna skip part 0 {to Core Command System} it's ok but read ⚖️ STRICT ETHICAL USAGE POLICY
+
 ## Part 0: The Creator's Manifesto & Ethical Foundation
 
 <div align="center">
@@ -121,7 +124,7 @@ When used properly, Flucky helps teach:
 
 ### Who I Am
 
-**James** - Security professional with years of experience in:
+**James** - [not] Security professional with 0 years of experience in:
 - Red team operations and penetration testing
 - Security tool development
 - Awareness training and education
@@ -261,12 +264,10 @@ Your support helps:
 
 ### Why Flucky Exists - A Story of Necessity
 
-I created Flucky out of pure frustration with the current state of HID attack tools. For years, we've been stuck in the same cycle:
+I created Flucky to fix something:
 
 - **Physical access required** - Plugging devices into target systems
-- **Manual pairing needed** - Bluetooth devices that require user approval  
 - **Limited stealth capabilities** - Obvious indicators of compromise
-- **Static payload execution** - Predictable patterns that defenders easily recognize
 - **No psychological elements** - Pure technical attacks without mind games
 
 Flucky changes **everything**. This isn't just another Rubber Ducky clone - this is the evolution the security community desperately needed.
@@ -276,17 +277,16 @@ Flucky changes **everything**. This isn't just another Rubber Ducky clone - this
 **Traditional HID Attacks:**
 ```bash
 # Step 1: Physical access - plug device in
-# Step 2: Wait for driver installation  
-# Step 3: Hope the target doesn't notice
-# Step 4: Execute basic payload
-# Step 5: Pray you don't get caught
+# Step 2: Hope the target doesn't notice
+# Step 3: Execute basic payload
+# Step 4: Pray you don't get caught
 ```
 
 **Flucky's Approach:**
 ```bash
 # Step 1: Be within Bluetooth range
 # Step 2: Automatically appears as available keyboard
-# Step 3: Target connects thinking it's their device
+# Step 3: [Target connects thinking it's their device] or you connect within 10 sec.
 # Step 4: Execute advanced, morphing payloads
 # Step 5: Leave no trace, create maximum impact
 ```
