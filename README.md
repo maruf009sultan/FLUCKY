@@ -17,10 +17,8 @@
 
 ### The Gap in the Market
 
-For years, I watched the security community struggle with the same limitations:
+For years, I watched some limitations:
 
-- **Basic tools** that haven't evolved since the Rubber Ducky's inception
-- **No innovation** in Bluetooth HID attack methodologies  
 - **Missing psychological** elements in security testing
 - **Poor operational security** in available tools
 - **Limited real-world** testing capabilities for awareness training
@@ -29,7 +27,7 @@ I didn't just want to make another ducky clone. I wanted to create something tha
 
 ### The Vision
 
-Flucky represents what HID attack tools **should be** in 2024:
+Flucky represents what HID attack tools **should be** in 2025:
 - Wireless and flexible
 - Psychologically sophisticated
 - Operationally secure
@@ -40,18 +38,9 @@ Flucky represents what HID attack tools **should be** in 2024:
 
 ### Why Source Code Isn't Available
 
-**I'm distributing only the compiled `.bin` file intentionally:**
+**I'm distributing only the compiled `.bin` file intentionally: for some reasons**
 
-1. **Responsibility** - Limits misuse while allowing legitimate use
-2. **Quality Control** - Ensures stable, tested versions are used
-3. **Support Focus** - I can provide better support for a known codebase
-4. **Commercial Considerations** - Future versions may have commercial elements
 
-**What this means for you:**
-- You get a proven, stable firmware
-- No compilation issues or dependency problems
-- Consistent behavior across all devices
-- My ongoing support and updates
 
 ### For Developers & Enthusiasts
 
@@ -59,7 +48,6 @@ I understand the desire for source code. While the full source isn't available:
 - **Feature requests** are welcome and considered
 - **Bug reports** are taken seriously and fixed promptly
 - **Educational inquiries** about implementation are encouraged
-- **Collaboration opportunities** exist for serious contributors
 
 ## ⚖️ STRICT ETHICAL USAGE POLICY
 
