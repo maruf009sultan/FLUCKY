@@ -19,7 +19,7 @@
 - [Hardware Requirements](#-hardware-requirements)
 - [Quick Start Guide](#-quick-start-guide)
 
-### 🎮 Core Command System
+### 🎮 Part 1: Core Command System
 - [Command Structure](#command-structure)
 - [Basic Device Management](#basic-device-management-commands)
 - [Script Management System](#script-management-system)
